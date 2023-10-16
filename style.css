@@ -1,0 +1,13 @@
+body{
+    width: 200px;
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+}
+
+p{
+    display: inline-flex;
+    margin: auto;
+    color: black;
+    font-style: italic;
+}
